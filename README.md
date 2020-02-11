@@ -1,3 +1,3 @@
 ﻿# storybook-react
 
-Live: https://nisan250.github.io/storybook-react/?path=/story/*
+Live: https://nisan250.github.io/storybook-react
