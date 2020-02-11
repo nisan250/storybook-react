@@ -20,7 +20,7 @@
     "babel-loader": "^8.0.6"
   },
   "scripts": {
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "storybook": "start-storybook -p 6006 -s ./Images",
+    "build-storybook": "build-storybook -s ./Images"
   }
 }
